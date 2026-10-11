@@ -1,4 +1,5 @@
 ## BookForge 1.0 — Initial Windows Release
+<img width="1314" height="840" alt="imagen" src="https://github.com/user-attachments/assets/ec53a2da-e180-4ef3-b313-557e6e456ea1" />
 
 The first public release of BookForge, a Windows desktop application for batch EPUB-to-MOBI conversion and ebook library management.
 
